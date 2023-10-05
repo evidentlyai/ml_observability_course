@@ -1,3 +1,8 @@
-# ml\_observability\_course
+---
+description: Open-source ML observabilty course.
+---
 
-This a page for ML observability course&#x20;
+# Welcome!
+
+The Open-source ML observability course starts on **October 16, 2023**. \
+[Sign up](https://www.evidentlyai.com/ml-observability-course) to save your seat and receive weekly course updates.
