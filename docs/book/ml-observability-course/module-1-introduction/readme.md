@@ -1,3 +1,7 @@
+---
+description: Introduction to ML monitoring and observability.
+---
+
 # Module 1. Introduction
 
 This theoretical module introduces the key topics of machine learning monitoring and observability.
