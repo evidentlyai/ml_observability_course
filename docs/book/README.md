@@ -28,8 +28,8 @@ We explore different types of evaluations, from data quality to data drift, and 
 # Course structure
 ML observability course is organized into six modules. You can follow the complete course syllabus or pick only the modules that are most relevant to you.
 
-{% content-ref url="ml-observability-course/module-1-introduction.md" %}
-[Module 1. Introduction to ML monitoring and observability](ml-observability-course/module-1-introduction.md). 
+{% content-ref url="ml-observability-course/module-1-introduction/readme.md" %}
+[Module 1. Introduction to ML monitoring and observability](ml-observability-course/module-1-introduction/readme.md). 
 {% endcontent-ref %}
 
 {% content-ref url="ml-observability-course/module-2-ml-monitoring-metrics.md" %}
