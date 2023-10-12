@@ -56,3 +56,29 @@ Here is how the defaults are implemented in the Evidently open-source library.
 **For large datasets (>1000)**, you might use Wasserstein Distance for numerical features and Jensen-Shannon divergence for categorical features.
 
 ![](<../../../images/2023109\_course\_module2.071.png>)
+
+## Univariate vs. multivariate drift
+
+The **univariate drift** detection approach looks at drift in each feature individually. It returns drift/no drift for each feature and can be easily interpretable. 
+
+The **multivariate drift** detection approach looks at the complete dataset (e.g., using PCA and certain methods like domain classifier). It returns drift/no drift for the dataset and may be useful for systems with many features. 
+
+You can still use the univariate approach to detect drift in a dataset by:
+* Tracking the share (%) of drifting features to get a dataset drift decision.
+* Tracking distribution drift only in the top model features. 
+* Combining both solutions.
+
+## Tips for calculating drift
+
+Here are some tips to keep in mind when calculating data drift:
+* **Data quality is a must**. Calculate data quality metrics first and then monitor for drift. Otherwise, you might detect “data drift” that is caused by data quality issues.
+* **Mind the feature set**. The approach to drift analysis varies based on the type and importance of features.
+* **Mind the segments**. Consider segment-based drift monitoring when you have clearly defined segments in your data. For example, in manufacturing, you might have different suppliers of raw materials and need to monitor distribution drift separately for each of them.
+
+## Summing up
+
+We discussed the key concepts of data drift and how to measure it. When calculating data drift, consider drift detection method and thresholds, properties of reference data, and alert conditions. 
+
+Further reading: [How to break a model in 20 days. A tutorial on production model analytics](https://www.evidentlyai.com/blog/tutorial-1-model-analytics-in-production).
+
+Up next: deep dive into data drift detection [OPTIONAL] and practice on how to detect data drift using Python and [Evidently](https://github.com/evidentlyai/evidently) library.
