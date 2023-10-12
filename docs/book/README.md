@@ -16,7 +16,9 @@ The course starts on **October 16, 2023**. \
 * **Newsletter**. [Sign up](https://www.evidentlyai.com/ml-observability-course) to receive weekly updates with the course materials.
 * **Discord community**. Join the [community](https://discord.gg/PyAJuUD5mB) to ask questions and chat with others.
 * **Course platform**. [Register](https://evidentlyai.thinkific.com/courses/ml-observability-course) if you want to submit assignments and receive the certificate. This is optional.
-* **Code examples**. Will be published in this GitHub [repository](https://github.com/evidentlyai/ml_observability_course) throughout the course. 
+* **Code examples**. Will be published in this GitHub [repository](https://github.com/evidentlyai/ml_observability_course) throughout the course.
+* **Enjoying the course?** [Star](https://github.com/evidentlyai/evidently) Evidently on GitHub to contribute back! This helps us create free, open-source tools and content for the community.
+
 
 The course starts on **October 16, 2023**. The videos and course notes for the new modules will be released during the course cohort. 
 
