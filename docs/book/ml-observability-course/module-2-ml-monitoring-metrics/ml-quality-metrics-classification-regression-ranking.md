@@ -32,7 +32,7 @@ Methods to help visualize and understand classification quality metrics include:
 * **Class separation quality** helps visualize correct and incorrect predictions for each class.
 * **Error analysis**. You can also map predicted probabilities or model errors alongside feature values and explore if a specific type of misclassification is connected to the particular feature values.
 
-[](<../../../images/2023109\_course\_module2.016.png>)
+![](<../../../images/2023109\_course\_module2.016.png>)
 
 {% hint style="info" %}
 **Further reading:** [What is your model hiding? A tutorial on evaluating ML models](https://www.evidentlyai.com/blog/tutorial-2-model-evaluation-hr-attrition).  
@@ -47,7 +47,7 @@ Regression models provide numerical output which is compared against actual valu
 * **Mean Absolute Percentage Error (MAPE)** averages all absolute errors in %. Works well for datasets with objects of different scale (i.e., tens, thousands, or millions).
 * **Symmetric MAPE** provides different penalty for over- or underestimation.
 
-[](<../../../images/2023109\_course\_module2.020.png>)
+![](<../../../images/2023109\_course\_module2.020.png>)
 
 Some of the methods to analyze and visualize regression model quality are:
 * **Predicted vs. Actual** value plots and Error over time plots help derive patterns in model predictions and behavior (e.g., Does the model tend to have bigger errors during weekends or hours of peak demand?). 
@@ -55,7 +55,7 @@ Some of the methods to analyze and visualize regression model quality are:
 
 You can also map extreme errors alongside feature values and explore if a specific type of error is connected to the particular feature values. 
 
-[](<../../../images/2023109\_course\_module2.025.png>)
+![](<../../../images/2023109\_course\_module2.025.png>)
 
 ## Ranking quality metrics
 
@@ -69,7 +69,7 @@ We need to estimate the order of objects to measure quality in ranking tasks. So
 * **Recall @k** is a coverage of all relevant objects in top-K results.
 * **Lift @k** reflects an improvement over random ranking.
 
-[](<../../../images/2023109\_course\_module2.028.png>)
+![](<../../../images/2023109\_course\_module2.028.png>)
 
 If you work on a recommender system, you might want to consider additional – “beyond accuracy” – metrics that reflect RecSys behavior. Some examples are:
 * Serendipity
