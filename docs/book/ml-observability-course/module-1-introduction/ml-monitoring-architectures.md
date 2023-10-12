@@ -37,3 +37,9 @@ When it comes to visualizing the results of monitoring, you also have options.
 Each ML monitoring architecture has its pros and cons. When choosing between them, consider existing tools, the scale of ML deployments, and available team resources for systems support. Be pragmatic: you can start with a simpler architecture and expand later. 
 
 For a deeper dive into the ML monitoring architectures with specific code examples, head to [Module 5](../module-5-ml-pipelines-validation-and-testing.md) and [Module 6](../module-6-deploying-an-ml-monitoring-dashboard.md). 
+
+## Enjoyed the content?
+
+Star Evidently on GitHub to contribute back! This helps us create free, open-source tools and content for the community.
+
+⭐️ [Star](https://github.com/evidentlyai/evidently) on GitHub!
