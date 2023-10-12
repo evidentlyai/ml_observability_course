@@ -13,10 +13,10 @@ Here is a quick refresher on the Evidently components we will use:
 * **Test Suites** perform structured data and ML model quality checks. They verify conditions and show which of them pass or fail. You can start with default test conditions or design your testing framework. 
 
 **Outline**:\
-[00:00](https://www.youtube.com/watch?v=_HKGrW2mVdo&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=11) Create a working environment and import libraries\
-[01:30](https://youtu.be/_HKGrW2mVdo?si=_iHAF_njZ4f5YkIJ&t=90) Prepare reference and current dataset\
-[05:20](https://youtu.be/_HKGrW2mVdo?si=_iHAF_njZ4f5YkIJ&t=320) Run data quality Test Suite and visualize the results\
-[09:30](https://youtu.be/_HKGrW2mVdo?si=_iHAF_njZ4f5YkIJ&t=570) Customize the Test Suite by specifying individual tests and test conditions\
-[13:20](https://youtu.be/_HKGrW2mVdo?si=_iHAF_njZ4f5YkIJ&t=800) Build and customize data quality Report
+[00:00](https://www.youtube.com/watch?v=_HKGrW2mVdo&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=11&t=0s) Create a working environment and import libraries\
+[01:30](https://www.youtube.com/watch?v=_HKGrW2mVdo&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=11&t=90s) Prepare reference and current dataset\
+[05:20](https://www.youtube.com/watch?v=_HKGrW2mVdo&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=11&t=320s) Run data quality Test Suite and visualize the results\
+[09:30](https://www.youtube.com/watch?v=_HKGrW2mVdo&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=11&t=570s) Customize the Test Suite by specifying individual tests and test conditions\
+[13:20](https://www.youtube.com/watch?v=_HKGrW2mVdo&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=11&t=800s) Build and customize data quality Report
 
 That’s it! We evaluated data quality using Evidently Reports and Test Suites and demonstrated how to add custom metrics, tests, and test conditions to the analysis.
