@@ -14,6 +14,6 @@ In this video, we walk you through the code example of ML model quality evaluati
 [08:25](https://youtu.be/QWLw_lJ29k0?si=mNJcD4av9i5krY0C&t=505) Build and customize classification quality report\
 [14:50](https://youtu.be/QWLw_lJ29k0?si=UXRixfNjApAKVrbl&t=890) Save and share the report\
 [16:05](https://youtu.be/QWLw_lJ29k0?si=UXRixfNjApAKVrbl&t=965) Display the report in JSON format and as a Python dictionary\
-[18:15](https://youtu.be/QWLw_lJ29k0?si=UXRixfNjApAKVrbl&t=1095) Build and customize regression quality report\
+[18:15](https://youtu.be/QWLw_lJ29k0?si=UXRixfNjApAKVrbl&t=1095) Build and customize regression quality report
 
 That’s it! We built an ML model quality report for classification and regression problems and learned how to display it in HTML and JSON formats and as a Python dictionary. 
