@@ -27,4 +27,4 @@ The ultimate measure of the model quality is its impact on the business. Dependi
 
 ![](<../../../images/2023109\_course\_module1\_fin\_images.034.png>)
 
-For a deeper dive into **ML model quality and relevance** and **data quality and integrity** metrics, head to [Module 2](ml-observability-course/module-2-ml-monitoring-metrics.md).
+For a deeper dive into **ML model quality and relevance** and **data quality and integrity** metrics, head to [Module 2](../module-2-ml-monitoring-metrics.md).

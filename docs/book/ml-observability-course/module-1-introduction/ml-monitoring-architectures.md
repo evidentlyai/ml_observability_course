@@ -36,4 +36,4 @@ When it comes to visualizing the results of monitoring, you also have options.
 
 Each ML monitoring architecture has its pros and cons. When choosing between them, consider existing tools, the scale of ML deployments, and available team resources for systems support. Be pragmatic: you can start with a simpler architecture and expand later. 
 
-For a deeper dive into the ML monitoring architectures with specific code examples, head to [Module 5](ml-observability-course/module-5-ml-pipelines-validation-and-testing.md) and [Module 6](ml-observability-course/module-6-deploying-an-ml-monitoring-dashboard.md). 
+For a deeper dive into the ML monitoring architectures with specific code examples, head to [Module 5](../module-5-ml-pipelines-validation-and-testing.md) and [Module 6](../module-6-deploying-an-ml-monitoring-dashboard.md). 
