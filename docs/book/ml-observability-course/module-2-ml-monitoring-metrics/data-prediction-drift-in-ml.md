@@ -10,15 +10,15 @@ When ground truth is unavailable or delayed, we cannot calculate ML model qualit
 
 **Prediction drift** shows changes in the distribution of **model outputs** over time. Without target values, this is the best proxy of the model behavior. Detected changes in the model outputs may be an early signal of changes in the model environment, data quality bugs, pipeline errors, etc. 
 
-![](<../../../images/2023109\_course\_module2.058.png>)
+![](<../../../images/2023109\_course\_module2.058-min.png>)
 
 **Feature drift** demonstrates changes in the distribution of **input features** over time. When we train the model, we assume that if the input data remains reasonably similar, we can expect similar model quality. Thus, data distribution drift can be an early warning about model quality decay, important changes in the model environment or user behavior, unannounced changes to the modeled process, etc. 
 
-![](<../../../images/2023109\_course\_module2.060.png>)
+![](<../../../images/2023109\_course\_module2.060-min.png>)
 
 Prediction and feature drift can serve as early warning signs for model quality issues. They can also help pinpoint a root cause when the model decay is already observed.
 
-![](<../../../images/2023109\_course\_module2.065.png>)
+![](<../../../images/2023109\_course\_module2.065-min.png>)
 
 Some key considerations about data drift to keep in mind:
 * **Prediction drift is usually more important than feature drift**. If you monitor one thing, look at the outputs. 
@@ -51,11 +51,11 @@ Here is how the defaults are implemented in the Evidently open-source library.
 
 **For small datasets (<=1000)**, you can use Kolmogorov-Smirnov test for numerical features, Chi-squared test for categorical features, and proportion difference test for independent samples based on Z-score for binary categorical features. 
 
-![](<../../../images/2023109\_course\_module2.070.png>)
+![](<../../../images/2023109\_course\_module2.070-min.png>)
 
 **For large datasets (>1000)**, you might use Wasserstein Distance for numerical features and Jensen-Shannon divergence for categorical features.
 
-![](<../../../images/2023109\_course\_module2.071.png>)
+![](<../../../images/2023109\_course\_module2.071-min.png>)
 
 ## Univariate vs. multivariate drift
 
