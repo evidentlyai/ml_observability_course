@@ -17,7 +17,7 @@ While setting up an ML monitoring system, it makes sense to align the complexity
 * **Feedback loop and environmental stability**. Both influence the cadence of metrics calculations and the choice of specific metrics.
 * **Service criticality**. What is the business cost of model quality drops? What risks should we monitor for? More critical models might require a more complex monitoring setup.
 
-![](<../../../images/2023109\_course\_module1\_fin\_images.050.png>)
+![](<../../../images/2023109\_course\_module1\_fin\_images.050-min.png>)
 
 ## Model retraining cadence
 
@@ -26,7 +26,7 @@ ML monitoring and retraining are closely connected. Some retraining factors to k
 * How you implement the retraining: whether you want to monitor the metrics and retrain on a trigger or set up a predefined retraining schedule (for example, weekly).
 * Issues that prevent updating the model too often, e.g., complex approval processes, regulations, need for manual testing.
 
-![](<../../../images/2023109\_course\_module1\_fin\_images.052.png>)
+![](<../../../images/2023109\_course\_module1\_fin\_images.052-min.png>)
 
 ## Reference dataset
 
