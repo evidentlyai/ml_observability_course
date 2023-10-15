@@ -16,7 +16,7 @@ When it comes to standard ML monitoring, we usually start by measuring ML model 
 * **Many segments with different quality**. Aggregated metrics might not provide insights for diverse user/object groups. In this case, we need to monitor quality metrics for each segment separately.
 * **The target function is volatile**. Volatile target function can lead to fluctuating performance metrics, making it difficult to differentiate between local quality drops and major performance issues. 
 
-![](<../../../images/2023109\_course\_module2.005.png>)
+![](<../../../images/2023109\_course\_module2.005-min.png>)
 
 ## Early monitoring metrics
 
@@ -27,7 +27,7 @@ Early monitoring focuses on metrics derived from consistently available data: in
 * **Data drift** to monitor changes in the input feature distributions.
 * **Output drift** to observe shifts in model predictions.
 
-![](<../../../images/2023109\_course\_module2.006.png>)
+![](<../../../images/2023109\_course\_module2.006-min.png>)
 
 ## Module 2 structure
 
@@ -46,7 +46,7 @@ This module includes both theoretical parts and code practice for each of the ev
 * [OPTIONAL] Theory: a deeper dive into data drift detection methods and strategies.
 * Practice: building a sample report in Python to detect data and prediction drift for various data type.
 
-![](<../../../images/2023109\_course\_module2.007.png>)
+![](<../../../images/2023109\_course\_module2.007-min.png>)
 
 ## Summing up
 
