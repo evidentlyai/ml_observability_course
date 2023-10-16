@@ -58,6 +58,20 @@ ML observability course is organized into six modules. You can follow the comple
 [Module 6. Deploying an ML monitoring dashboard](ml-observability-course/module-6-deploying-an-ml-monitoring-dashboard.md). 
 {% endcontent-ref %}
 
+# Course calendar and deadlines
+
+We will publish new materials throughout the course. 
+
+| Module                                                                   | Week                                                          |
+|--------------------------------------------------------------------------|---------------------------------------------------------------|
+| [Module 1: Introduction to ML monitoring and observability](https://learn.evidentlyai.com/ml-observability-course/module-1-introduction)                | October 16, 2023                                              |
+| [Module 2: ML monitoring metrics: model quality, data quality, data drift](https://learn.evidentlyai.com/ml-observability-course/module-2-ml-monitoring-metrics) | October 23, 2023                                              |
+| [Module 3: ML monitoring for unstructured data: NLP, LLM and embeddings](https://learn.evidentlyai.com/ml-observability-course/module-3-ml-monitoring-for-unstructured-data)   | October 30, 2023                                              |
+| [Module 4: Designing effective ML monitoring](https://learn.evidentlyai.com/ml-observability-course/module-4-designing-effective-ml-monitoring)                              | November 6, 2023                                              |
+| [Module 5: ML pipelines validation and testing](https://learn.evidentlyai.com/ml-observability-course/module-5-ml-pipelines-validation-and-testing)                            | November 13, 2023                                             |
+| [Module 6: Deploying an ML monitoring dashboard](https://learn.evidentlyai.com/ml-observability-course/module-6-deploying-an-ml-monitoring-dashboard)                           | November 20, 2023                                             |
+| Final assignment                                                         | November 27, 2023 <br><br> Quizzes and assignment due December 1, 2023 |
+
 # Our approach
 * **Blend of theory and practice**. The course combines key concepts of ML observability and monitoring with practice-oriented tasks.
 * **Practical code examples**. We provide end-to-end deployment blueprints and walk you through the code examples.
