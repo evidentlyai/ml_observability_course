@@ -25,6 +25,6 @@ ML model performance metrics help to ensure that ML models work as expected:
 
 The ultimate measure of the model quality is its impact on the business. Depending on business needs, you may want to monitor clicks, purchases, loan approval rates, cost savings, etc. This is typically custom to the use case and might involve collaborating with product managers or business teams to determine the right business KPIs. 
 
-![](<../../../images/2023109\_course\_module1\_fin\_images.034.png>)
+![](<../../../images/2023109\_course\_module1\_fin\_images.034-min.png>)
 
 For a deeper dive into **ML model quality and relevance** and **data quality and integrity** metrics, head to [Module 2](../module-2-ml-monitoring-metrics/readme.md).

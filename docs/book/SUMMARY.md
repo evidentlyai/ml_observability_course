@@ -17,6 +17,7 @@
   * [2.4. Data quality in machine learning](ml-observability-course/module-2-ml-monitoring-metrics/data-quality-in-ml.md)
   * [2.5. Data quality in ML [CODE PRACTICE]](ml-observability-course/module-2-ml-monitoring-metrics/data-quality-code-practice.md)
   * [2.6. Data and prediction drift in ML](ml-observability-course/module-2-ml-monitoring-metrics/data-prediction-drift-in-ml.md)
+  * [2.7. Deep dive into data drift detection [OPTIONAL]](ml-observability-course/module-2-ml-monitoring-metrics/data-drift-deep-dive.md)
   * [2.8. Data and prediction drift in ML [CODE PRACTICE]](ml-observability-course/module-2-ml-monitoring-metrics/data-prediction-drift-code-practice.md)
 * [Module 3: ML monitoring for unstructured data](ml-observability-course/module-3-ml-monitoring-for-unstructured-data.md)
 * [Module 4: Designing effective ML monitoring](ml-observability-course/module-4-designing-effective-ml-monitoring.md)

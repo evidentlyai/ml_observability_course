@@ -12,15 +12,19 @@ Welcome to the Open-source ML observability course!
 The course starts on **October 16, 2023**. \
 [Sign up](https://www.evidentlyai.com/ml-observability-course) to save your seat and receive weekly course updates.
 
-# Links
-* **Newsletter**. [Sign up](https://www.evidentlyai.com/ml-observability-course) to receive weekly updates with the course materials.
-* **Discord community**. Join the [community](https://discord.gg/PyAJuUD5mB) to ask questions and chat with others.
-* **Course platform**. [Register](https://evidentlyai.thinkific.com/courses/ml-observability-course) if you want to submit assignments and receive the certificate. This is optional.
-* **Code examples**. Will be published in this GitHub [repository](https://github.com/evidentlyai/ml_observability_course) throughout the course.
-* **Enjoying the course?** [Star](https://github.com/evidentlyai/evidently) Evidently on GitHub to contribute back! This helps us create free, open-source tools and content for the community.
-
+# How to participate?
+* **Join the course**. [Sign up](https://www.evidentlyai.com/ml-observability-course) to receive weekly updates with course materials and information about office hours.
+* **Course platform [OPTIONAL]**. If you want to receive a course certificate, you should **also** [register](https://evidentlyai.thinkific.com/courses/ml-observability-course) on the platform and complete all the assignments before **December 1, 2023**.
 
 The course starts on **October 16, 2023**. The videos and course notes for the new modules will be released during the course cohort. 
+
+# Links
+
+* **Discord community**. Join the [community](https://discord.gg/PyAJuUD5mB) to ask questions and chat with others.
+* **Code examples**. Will be published in this GitHub [repository](https://github.com/evidentlyai/ml_observability_course) throughout the course.
+* **YouTube playlist**. [Subscribe](https://www.youtube.com/playlist?list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF) to the course YouTube playlist to keep tabs on video updates.
+
+**Enjoying the course?** [Star](https://github.com/evidentlyai/evidently) Evidently on GitHub to contribute back! This helps us create free, open-source tools and content for the community.
 
 # What the course is about
 This course is a deep dive into ML model observability and monitoring. 
