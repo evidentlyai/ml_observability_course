@@ -42,8 +42,8 @@ ML observability course is organized into six modules. You can follow the comple
 [Module 2. ML monitoring metrics: model quality, data quality, data drift](ml-observability-course/module-2-ml-monitoring-metrics/readme.md). 
 {% endcontent-ref %}
 
-{% content-ref url="ml-observability-course/module-3-ml-monitoring-for-unstructured-data.md" %}
-[Module 3. ML monitoring for unstructured data: NLP, LLM, and embeddings](ml-observability-course/module-3-ml-monitoring-for-unstructured-data.md). 
+{% content-ref url="ml-observability-course/module-3-ml-monitoring-for-unstructured-data/readme.md" %}
+[Module 3. ML monitoring for unstructured data: NLP, LLM, and embeddings](ml-observability-course/module-3-ml-monitoring-for-unstructured-data/readme.md). 
 {% endcontent-ref %}
 
 {% content-ref url="ml-observability-course/module-4-designing-effective-ml-monitoring.md" %}
