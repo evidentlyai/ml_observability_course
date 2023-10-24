@@ -42,4 +42,6 @@ We introduced basic concepts and examples of text descriptors. You can calculate
 
 While text descriptors are a powerful tool to analyze and monitor unstructured text data, we can use this approach only if the raw text is available. Other monitoring strategies may be required for scenarios where only embeddings are available.
 
+Further reading: [Monitoring unstructured data for LLM and NLP with text descriptors](https://www.evidentlyai.com/blog/unstructured-data-monitoring)
+
 Up next: monitoring embeddings drift.
