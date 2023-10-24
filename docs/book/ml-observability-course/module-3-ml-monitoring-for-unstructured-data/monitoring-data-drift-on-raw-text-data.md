@@ -51,4 +51,8 @@ Using this method can be challenging due to difficulties in building a good clus
 
 Defining data quality and tracking data drift for text data can be challenging. However, we can extract interpretable signals from text data to detect drift. You can use such methods as domain classifier and topic modeling to monitor for drift and evaluate the quality of raw text data. 
 
+Further reading:
+* [Failing loudly: An Empirical Study of Methods for Detecting Dataset Shift](https://arxiv.org/abs/1810.11953)
+* [Monitoring NLP models in production: a tutorial on detecting drift in text data](https://www.evidentlyai.com/blog/tutorial-detecting-drift-in-text-data)
+
 Up next: an exploration of alternative text drift detection methods that use descriptors.
