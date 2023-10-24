@@ -43,4 +43,6 @@ Domain classifier can be a good default: it is comparably fast, PCA-agnostic, ag
 
 We discussed different strategies for monitoring embedding drift, including distance metrics, model-based drift detection, and share of drifted components. While using a domain classifier to detect embedding drift is a good default strategy, we suggest you evaluate other methods to choose the right one for your use case. 
 
+Further reading: [Shift happens: we compared 5 methods to detect drift in ML embeddings](https://www.evidentlyai.com/blog/embedding-drift-detection)
+
 Up-next: code practice! We will apply ML monitoring strategies for unstructured data on real data to derive actionable metrics. 
