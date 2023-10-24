@@ -44,3 +44,8 @@ We discussed three strategies for monitoring data quality and data drift in mult
 * **If working with embeddings,** numerous methods are also available to detect drift.
 * **When dealing with multimodal datasets,** you can split data by type, leverage text descriptors, or generate a joint embedding dataset, depending on the specific use case and available data.
 
+## Enjoyed the content?
+
+Star Evidently on GitHub to contribute back! This helps us create free, open-source tools and content for the community.
+
+⭐️ [Star](https://github.com/evidentlyai/evidently) on GitHub!
