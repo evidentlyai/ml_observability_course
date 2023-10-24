@@ -10,6 +10,9 @@ A **text descriptor** is any feature you can derive or calculate from raw text. 
 
 Depending on your goal and problem statement, there are various groups of descriptors you can calculate:
 * **Text data quality.** Example descriptors are text length, the share of out-of-vocabulary words, the share of non-letter characters, regular expressions match, etc.
+
+![](<../../../images/2023109\_course\_module3.024-min.png>)
+
 * **Text contents.** For instance, you can monitor the presence of trigger words like mentions of specific brands or competitors or text sentiment. Collaborating with product managers or business teams is recommended to determine the meaningful text descriptors for your problem statement and domain area.
 
 ![](<../../../images/2023109\_course\_module3.025-min.png>)
