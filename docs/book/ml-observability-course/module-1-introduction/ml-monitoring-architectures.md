@@ -14,7 +14,7 @@ It is essential to start monitoring ML models as soon as you deploy them to prod
 
 **Ad hoc reporting** is a great alternative when your resources are limited. You can use Python scripts to calculate and analyze metrics in your notebook. This is a good first step in logging model performance and data quality.
 
-![](<../../../images/2023109\_course\_module1\_fin\_images.061.png>)
+![](<../../../images/2023109\_course\_module1\_fin\_images.061-min.png>)
 
 ## Monitoring frontend
 
@@ -24,13 +24,13 @@ When it comes to visualizing the results of monitoring, you also have options.
 
 **One-off reports**. You can also generate reports as needed and create visualizations or specific one-off analyses based on the model logs. You can create your own reports in Python/R or use different BI visualization tools.
 
-![](<../../../images/2023109\_course\_module1\_fin\_images.065.png>)
+![](<../../../images/2023109\_course\_module1\_fin\_images.065-min.png>)
 
 **BI Systems**. If you want to create a dashboard to track ML monitoring metrics over time, you can also reuse existing business intelligence or software monitoring systems. In this scenario, you must connect existing tools to the ML metric database and add panels or plots to the dashboard.
 
 **Dedicated ML monitoring**. As a more sophisticated approach, you can set up a separate visualization system that gives you an overview of all your ML models and datasets and provides an ongoing, updated view of metrics.
 
-![](<../../../images/2023109\_course\_module1\_fin\_images.066.png>)
+![](<../../../images/2023109\_course\_module1\_fin\_images.066-min.png>)
 
 ## Summing up
 

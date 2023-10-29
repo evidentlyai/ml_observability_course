@@ -17,7 +17,7 @@ Some common data processing issues are:
 
 Issues can also arise if the data schema changes or data is lost at the source (e.g., broken in-app logging or frozen sensor values). If you have several models interacting with each other, broken upstream models can affect downstream models.
 
-![](<../../../images/2023109\_course\_module2.041.png>)
+![](<../../../images/2023109\_course\_module2.041-min.png>)
 
 ## Data quality metrics and analysis
 
@@ -30,7 +30,7 @@ Issues can also arise if the data schema changes or data is lost at the source (
 
 Then, you can visualize and compare statistics and data distributions of the current data batch and reference data to ensure data stability.
 
-![](<../../../images/2023109\_course\_module2.047.png>)
+![](<../../../images/2023109\_course\_module2.047-min.png>)
 
 When it comes to monitoring data quality, you must define the conditions for alerting. 
 

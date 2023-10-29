@@ -31,7 +31,7 @@ Accordingly, you also need to track data quality and model performance metrics.
 
 **Ground truth is not available immediately** to calculate ML model performance metrics. In this case, you can use proxy metrics like data quality to monitor for early warning signs. 
 
-![](<../../../images/2023109\_course\_module1\_fin\_images.024.png>)
+![](<../../../images/2023109\_course\_module1\_fin\_images.024-min.png>)
 
 ## ML monitoring vs ML observability
 
@@ -59,7 +59,7 @@ ML monitoring and observability help:
 * **Trigger actions**. Based on the calculated data and model health metrics, you can trigger fallback, model switching, or automatic retraining.
 * **Document ML model performance** to provide information to the stakeholders.
 
-![](<../../../images/2023109\_course\_module1\_fin\_images.030.png>)
+![](<../../../images/2023109\_course\_module1\_fin\_images.030-min.png>)
 
 ## Who should care about ML monitoring and observability?
 
@@ -72,7 +72,7 @@ The short answer: everyone who cares about the model's impact on business. At th
 
 Other stakeholders include model users, business stakeholders, support, and compliance teams.
 
-![](<../../../images/2023109\_course\_module1\_fin\_images.031.png>)
+![](<../../../images/2023109\_course\_module1\_fin\_images.031-min.png>)
 
 ## Summing up
 
