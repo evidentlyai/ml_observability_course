@@ -43,7 +43,7 @@ ML observability course is organized into six modules. You can follow the comple
 [Module 3. ML monitoring for unstructured data: NLP, LLM, and embeddings](ml-observability-course/module-3-ml-monitoring-for-unstructured-data/readme.md). 
 {% endcontent-ref %}
 
-{% content-ref url="ml-observability-course/module-4-designing-effective-ml-monitoring.md" %}
+{% content-ref url="ml-observability-course/module-4-designing-effective-ml-monitoring/readme.md" %}
 [Module 4. Designing effective ML monitoring](ml-observability-course/module-4-designing-effective-ml-monitoring/readme.md). 
 {% endcontent-ref %}
 
