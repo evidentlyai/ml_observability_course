@@ -75,7 +75,7 @@ An important thing to add is monitoring the number of model predictions. This is
 
 ![](<../../../images/2023110\_course\_module4\_fin.025-min.png>)
 
-**2. Model performance **
+**2. Model performance**
 
 This set of metrics answers the question "How does the service perform?" and “Did anything break?” 
 
