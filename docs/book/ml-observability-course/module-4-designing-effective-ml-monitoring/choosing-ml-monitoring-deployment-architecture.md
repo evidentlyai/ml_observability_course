@@ -96,4 +96,5 @@ We discussed the differences between different ML monitoring architectures. Here
 ## Enjoyed the content?
 
 Star Evidently on GitHub to contribute back! This helps us create free, open-source tools and content for the community.
+
 ⭐️ [Star](https://github.com/evidentlyai/evidently) on GitHub!
