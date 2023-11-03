@@ -9,9 +9,6 @@ description: Open-source ML observabilty course.
 
 Welcome to the Open-source ML observability course!
 
-The course starts on **October 16, 2023**. \
-[Sign up](https://www.evidentlyai.com/ml-observability-course) to save your seat and receive weekly course updates.
-
 # How to participate?
 * **Join the course**. [Sign up](https://www.evidentlyai.com/ml-observability-course) to receive weekly updates with course materials and information about office hours.
 * **Course platform [OPTIONAL]**. If you want to receive a course certificate, you should **also** [register](https://evidentlyai.thinkific.com/courses/ml-observability-course) on the platform and complete all the assignments before **December 1, 2023**.
@@ -47,7 +44,7 @@ ML observability course is organized into six modules. You can follow the comple
 {% endcontent-ref %}
 
 {% content-ref url="ml-observability-course/module-4-designing-effective-ml-monitoring.md" %}
-[Module 4. Designing effective ML monitoring](ml-observability-course/module-4-designing-effective-ml-monitoring.md). 
+[Module 4. Designing effective ML monitoring](ml-observability-course/module-4-designing-effective-ml-monitoring/readme.md). 
 {% endcontent-ref %}
 
 {% content-ref url="ml-observability-course/module-5-ml-pipelines-validation-and-testing.md" %}
