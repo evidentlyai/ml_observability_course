@@ -47,7 +47,7 @@ ML observability course is organized into six modules. You can follow the comple
 {% endcontent-ref %}
 
 {% content-ref url="ml-observability-course/module-4-designing-effective-ml-monitoring.md" %}
-[Module 4. Designing effective ML monitoring](ml-observability-course/module-4-designing-effective-ml-monitoring.md). 
+[Module 4. Designing effective ML monitoring](ml-observability-course/module-4-designing-effective-ml-monitoring/readme.md). 
 {% endcontent-ref %}
 
 {% content-ref url="ml-observability-course/module-5-ml-pipelines-validation-and-testing.md" %}
