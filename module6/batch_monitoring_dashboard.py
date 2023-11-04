@@ -101,7 +101,7 @@ def create_project(workspace: WorkspaceBase):
 
     project.dashboard.add_panel(
         DashboardPanelTestSuite(
-            title="All tests",
+            title="Data Drift tests",
             filter=ReportFilter(metadata_values={}, tag_values=[], include_test_suites=True),
             size=WidgetSize.HALF
         )
@@ -109,14 +109,14 @@ def create_project(workspace: WorkspaceBase):
 
     project.dashboard.add_panel(
         DashboardPanelTestSuite(
-            title="All tests: detailed",
+            title="Data Drift tests: detailed",
             filter=ReportFilter(metadata_values={}, tag_values=[], include_test_suites=True),
             size=WidgetSize.HALF,
             panel_type=TestSuitePanelType.DETAILED
 
         )
     )
-    
+
     project.save()
     return project
 
