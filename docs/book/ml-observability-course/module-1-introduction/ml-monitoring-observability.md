@@ -1,3 +1,7 @@
+---
+description: What ML monitoring is, the challenges of production ML monitoring, and how it differs from ML observability.
+---
+
 # 1.2. What is ML monitoring and observability?
 
 {% embed url="https://www.youtube.com/watch?v=Wfphz6TUikM&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=3" %}

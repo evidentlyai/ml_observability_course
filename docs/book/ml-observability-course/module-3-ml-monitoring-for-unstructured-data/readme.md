@@ -1,5 +1,5 @@
 ---
-description: Monitoring NLP, LLM and embeddings.
+description: This module covers evaluating and monitoring the production performance for models that use unstructured data, including NLP, LLMs, and embeddings.
 ---
 
 # Module 3: ML monitoring for unstructured data

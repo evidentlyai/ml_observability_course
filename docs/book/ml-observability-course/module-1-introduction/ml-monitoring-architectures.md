@@ -1,3 +1,7 @@
+---
+description: ML monitoring architectures for backend and frontend and what to consider when choosing between them.
+---
+
 # 1.5. ML monitoring architectures
 
 {% embed url="https://www.youtube.com/watch?v=VVO6QFVbwTU&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=6" %}

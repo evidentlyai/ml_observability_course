@@ -1,5 +1,5 @@
 ---
-description: Open-source ML observabilty course.
+description: Free Open-source ML observability course for data scientists and ML engineers by Evidently AI.
 ---
 
 # Welcome!

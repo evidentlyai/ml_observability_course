@@ -1,3 +1,7 @@
+---
+description: A deep dive into data drift detection methods, how to choose the right approach for your use case, and what to do when the drift is detected.
+---
+
 # 2.7. Deep dive into data drift detection [OPTIONAL]
 
 {% embed url="https://www.youtube.com/watch?v=N47SHSP6RuY&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=13" %}

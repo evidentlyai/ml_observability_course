@@ -1,3 +1,7 @@
+---
+description: Key considerations for ML monitoring setup. Service criticality, retraining cadence, reference dataset, and ML monitoring architecture.
+---
+
 # 1.4. Key considerations for ML monitoring setup
 
 {% embed url="https://www.youtube.com/watch?v=LnfL9Nu0tm4&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=5" %}

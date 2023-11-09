@@ -1,3 +1,7 @@
+---
+description: What text descriptors are and how to use them to monitor text data quality and data drift.
+---
+
 # 3.3. Monitoring text data quality and data drift with descriptors
 
 {% embed url="https://www.youtube.com/watch?v=UwWGxyCHQSw&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=17" %}

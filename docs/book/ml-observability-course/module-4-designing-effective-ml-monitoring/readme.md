@@ -1,5 +1,5 @@
 ---
-description: Key questions to consider when customizing ML monitoring for your model.
+description: This module reviews how to set up an ML monitoring system, considering the model risks, criticality, and deployment scenario.
 ---
 
 # Module 4: Designing effective ML monitoring

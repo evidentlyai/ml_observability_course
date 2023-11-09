@@ -1,3 +1,7 @@
+---
+description: Strategies for monitoring data quality and data drift in multimodal datasets.
+---
+
 # 3.6. Monitoring multimodal datasets
 
 {% embed url="https://www.youtube.com/watch?v=b0a1iMlHgEs&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=20" %}

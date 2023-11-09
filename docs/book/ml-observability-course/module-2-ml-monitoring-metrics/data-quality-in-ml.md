@@ -1,3 +1,7 @@
+---
+description: Types of production data quality issues, how to evaluate data quality, and interpret data quality metrics.
+---
+
 # 2.4. Data quality in machine learning
 
 {% embed url="https://www.youtube.com/watch?v=IRbmQGqzVZo&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=10" %}

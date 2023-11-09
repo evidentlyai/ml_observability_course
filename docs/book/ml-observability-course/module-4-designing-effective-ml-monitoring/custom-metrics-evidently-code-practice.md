@@ -1,3 +1,7 @@
+---
+description: A code example walkthrough of creating a custom metric using the Evidently Python library.
+---
+
 # 4.6. Implementing custom metrics in Evidently [OPTIONAL]
 
 {% embed url="https://youtu.be/uEyoP-sPhyc?si=7hwr4LaJIeBZ-YLD" %}

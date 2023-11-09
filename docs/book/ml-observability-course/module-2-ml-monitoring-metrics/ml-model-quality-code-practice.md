@@ -1,3 +1,7 @@
+---
+description: A code example walkthrough of ML model quality evaluation using Python and the open-source Evidently library.
+---
+
 # 2.3. Evaluating ML model quality [CODE PRACTICE]
 
 {% embed url="https://www.youtube.com/watch?v=QWLw_lJ29k0&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=9" %}

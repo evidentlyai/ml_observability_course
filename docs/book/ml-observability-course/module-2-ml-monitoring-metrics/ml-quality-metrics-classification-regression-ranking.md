@@ -1,3 +1,7 @@
+---
+description: Commonly used ML quality metrics for classification, regression, and ranking problems.
+---
+
 # 2.2. Overview of ML quality metrics. Classification, regression, ranking
 
 {% embed url="https://www.youtube.com/watch?v=4_LOXDWxCbw&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=8" %}

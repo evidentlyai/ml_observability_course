@@ -1,3 +1,7 @@
+---
+description: A framework to organize ML monitoring metrics. Software system health, data quality, ML model quality, and business KPIs.
+---
+
 # 1.3. ML monitoring metrics. What exactly can you monitor?
 
 {% embed url="https://www.youtube.com/watch?v=DCFvZvpDks0&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=4" %}
