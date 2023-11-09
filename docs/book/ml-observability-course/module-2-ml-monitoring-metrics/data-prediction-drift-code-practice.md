@@ -1,3 +1,7 @@
+---
+description: A code example walkthrough of detecting data drift and creating a custom method for drift detection using Evidently.
+---
+
 # 2.8. Data and prediction drift in ML [CODE PRACTICE]
 
 {% embed url="https://www.youtube.com/watch?v=oO1K4CaWxt0&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=14" %}
