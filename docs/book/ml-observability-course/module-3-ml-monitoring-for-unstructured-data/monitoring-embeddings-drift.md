@@ -1,3 +1,7 @@
+---
+description: Strategies for monitoring embedding drift using distance metrics, model-based drift detection, and share of drifted components.
+---
+
 # 3.4. Monitoring embeddings drift
 
 {% embed url="https://www.youtube.com/watch?v=0XtABbNYU7U&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=18" %}
