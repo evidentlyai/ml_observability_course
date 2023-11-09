@@ -1,3 +1,7 @@
+---
+description: How to evaluate model quality for NLP and LLMs and monitor text data without labels using raw data, embeddings, and descriptors.
+---
+
 # 3.1. Introduction to NLP and LLM monitoring
 
 {% embed url="https://www.youtube.com/watch?v=tYA0h3mPeZE&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=15" %}
