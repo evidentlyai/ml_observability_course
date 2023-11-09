@@ -1,3 +1,7 @@
+---
+description: What data and prediction drift is, and how to detect distribution drift using statistical methods and rule-based checks.
+---
+
 # 2.6. Data and prediction drift in ML
 
 {% embed url="https://www.youtube.com/watch?v=bMYcB_5gP4I&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=12" %}
