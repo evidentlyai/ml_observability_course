@@ -1,3 +1,7 @@
+---
+description: What a good ML monitoring system is, and how to set up the logging architecture to capture metrics for further analysis.
+---
+
 # 4.1. Logging for ML monitoring
 
 {% embed url="https://youtu.be/CtUsDcA3tB0?si=RNDR2uRZ7wc8NwxB" %}
