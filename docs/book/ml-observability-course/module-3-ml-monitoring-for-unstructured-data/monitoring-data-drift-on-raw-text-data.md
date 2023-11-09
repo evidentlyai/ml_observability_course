@@ -1,3 +1,7 @@
+---
+description: How to detect and evaluate raw text data drift using domain classifier and topic modeling.
+---
+
 # 3.2. Monitoring data drift on raw text data
 
 {% embed url="https://www.youtube.com/watch?v=wHyXSyVg5Ag&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=16" %}
