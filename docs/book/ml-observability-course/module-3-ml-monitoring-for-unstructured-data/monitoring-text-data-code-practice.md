@@ -1,3 +1,7 @@
+---
+description: A code example walkthrough of unstructured data evaluations using the open-source Evidently Python library.
+---
+
 # 3.5. Monitoring text data [CODE PRACTICE]
 
 {% embed url="https://www.youtube.com/watch?v=RIultWCjYXo&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=19" %}
