@@ -1,3 +1,7 @@
+---
+description: ML monitoring architectures and choosing the right architecture for your use case.
+---
+
 # 4.7. How to choose the ML monitoring deployment architecture
 
 {% embed url="https://youtu.be/Q1NUCDZFRbU?si=26GhKBdhFAIzxBgi" %}
