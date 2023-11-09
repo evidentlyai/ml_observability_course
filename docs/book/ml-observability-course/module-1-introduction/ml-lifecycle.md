@@ -1,3 +1,7 @@
+---
+description: What can go wrong with data and machine learning services in production. Data quality issues, data drift, and concept drift.
+---
+
 # 1.1. ML lifecycle. What can go wrong with ML in production?
 
 {% embed url="https://www.youtube.com/watch?v=8I89FY2eelM&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=2" %}
