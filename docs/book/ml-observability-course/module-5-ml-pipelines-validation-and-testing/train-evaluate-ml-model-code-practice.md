@@ -2,11 +2,11 @@
 description: A code example walkthrough of preparing the data, training, evaluating, and saving an ML model using the Evidently Python library.
 ---
 
-# 5.2. Train and evaluate an ML model [CODE PRACTICE]
+# 5.2. Train and evaluate an ML model [OPTIONAL CODE PRACTICE]
 
 {% embed url="https://youtu.be/wHBL9zFgA8U?si=7jzJdynEt6tzAKLN" %}
 
-**Video 2**. [Train and evaluate an ML model [CODE PRACTICE]](https://youtu.be/wHBL9zFgA8U?si=7jzJdynEt6tzAKLN), by Emeli Dral
+**Video 2**. [Train and evaluate an ML model [OPTIONAL CODE PRACTICE]](https://youtu.be/wHBL9zFgA8U?si=7jzJdynEt6tzAKLN), by Emeli Dral
 
 In this video, we prepare the data, train, evaluate, and save an ML model that we will use later in this module to deploy an end-to-end pipeline for data and ML model quality checks. 
 
