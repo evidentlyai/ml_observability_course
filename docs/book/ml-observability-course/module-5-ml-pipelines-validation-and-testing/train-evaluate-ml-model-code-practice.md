@@ -6,7 +6,7 @@ description: A code example walkthrough of preparing the data, training, evaluat
 
 {% embed url="https://youtu.be/wHBL9zFgA8U?si=7jzJdynEt6tzAKLN" %}
 
-**Video 2**. [Train and evaluate an ML model](https://youtu.be/wHBL9zFgA8U?si=7jzJdynEt6tzAKLN), by Emeli Dral
+**Video 2**. [Train and evaluate an ML model [CODE PRACTICE]](https://youtu.be/wHBL9zFgA8U?si=7jzJdynEt6tzAKLN), by Emeli Dral
 
 In this video, we prepare the data, train, evaluate, and save an ML model that we will use later in this module to deploy an end-to-end pipeline for data and ML model quality checks. 
 
