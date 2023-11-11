@@ -2,7 +2,7 @@
 description: A code example walkthrough of automating data and model quality checks implemented with the Evidently Python library using Airflow.
 ---
 
-# 5.6. Run data drift and model quality checks in an Airflow pipeline [OPTIONAL]
+# 5.6. Run data drift and model quality checks in an Airflow pipeline [OPTIONAL CODE PRACTICE]
 
 {% embed url="https://youtu.be/YHO7k3T_fZA?si=9ePxgZso8mA4CsFR" %}
 
