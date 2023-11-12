@@ -62,4 +62,4 @@ While designing an ML monitoring system, tailor your approach to fit your specif
 * Use reference datasets to simplify the monitoring process but make sure they are carefully curated.
 * Define custom metrics that fit your problem statement and data properties.
 
-For a deeper dive into the ML monitoring setup, head to [Module 4](../module-4-designing-effective-ml-monitoring.md).
+For a deeper dive into the ML monitoring setup, head to [Module 4](../module-4-designing-effective-ml-monitoring/readme.md).
