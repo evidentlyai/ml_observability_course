@@ -22,3 +22,9 @@ In this video, we show how to log the results of data drift tests implemented wi
 [10:15](https://www.youtube.com/watch?v=gluRb9TbWSE&t=615s) Run the script and view the results \
 [13:30](https://www.youtube.com/watch?v=gluRb9TbWSE&t=810s) Run a new experiment to log HTML reports \
 [16:27](https://www.youtube.com/watch?v=gluRb9TbWSE&t=987s) Next module focus
+
+## Enjoyed the content?
+
+Star Evidently on GitHub to contribute back! This helps us create free, open-source tools and content for the community.
+
+⭐️ [Star](https://github.com/evidentlyai/evidently) on GitHub!
