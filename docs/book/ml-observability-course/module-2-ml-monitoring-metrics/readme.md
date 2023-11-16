@@ -1,5 +1,5 @@
 ---
-description: Model quality, data quality, data drift for structured data.
+description: This module covers different aspects of the production ML model performance. You will learn how to apply data quality, model quality, and data drift metrics for structured data.
 ---
 
 # Module 2: ML monitoring metrics: model quality, data quality, data drift

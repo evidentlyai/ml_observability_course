@@ -1,3 +1,7 @@
+---
+description: Types of custom metrics. Business or product metrics, domain-specific metrics, and weighted metrics.
+---
+
 # 4.5. Custom metrics in ML monitoring
 
 {% embed url="https://youtu.be/PrFuzKLM66I?si=68EF7tepIyXxyMig" %}

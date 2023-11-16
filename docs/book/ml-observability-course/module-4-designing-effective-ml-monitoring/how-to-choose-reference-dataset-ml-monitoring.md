@@ -1,3 +1,7 @@
+---
+description: What a reference dataset is in ML monitoring, how to choose one for drift detection, and when to use multiple references.
+---
+
 # 4.4. How to choose a reference dataset in ML monitoring
 
 {% embed url="https://youtu.be/42J-C4WmkZc?si=Av1gwZXAkBZXDT70" %}

@@ -1,3 +1,7 @@
+---
+description: Key considerations for ML monitoring setup. Service criticality, retraining cadence, reference dataset, and ML monitoring architecture.
+---
+
 # 1.4. Key considerations for ML monitoring setup
 
 {% embed url="https://www.youtube.com/watch?v=LnfL9Nu0tm4&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=5" %}
@@ -58,4 +62,4 @@ While designing an ML monitoring system, tailor your approach to fit your specif
 * Use reference datasets to simplify the monitoring process but make sure they are carefully curated.
 * Define custom metrics that fit your problem statement and data properties.
 
-For a deeper dive into the ML monitoring setup, head to [Module 4](../module-4-designing-effective-ml-monitoring.md).
+For a deeper dive into the ML monitoring setup, head to [Module 4](../module-4-designing-effective-ml-monitoring/readme.md).

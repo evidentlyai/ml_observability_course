@@ -1,3 +1,7 @@
+---
+description: A code example walkthrough of data quality evaluation using Evidently Reports and Test Suites.
+---
+
 # 2.5. Data quality in ML [CODE PRACTICE]
 
 {% embed url="https://www.youtube.com/watch?v=_HKGrW2mVdo&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=11" %}

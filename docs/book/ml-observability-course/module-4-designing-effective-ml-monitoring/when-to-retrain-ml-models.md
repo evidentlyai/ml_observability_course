@@ -1,3 +1,7 @@
+---
+description: Scheduled and trigger-based retraining and what to consider when making the retaining decision.
+---
+
 # 4.3. When to retrain machine learning models
 
 {% embed url="https://youtu.be/oqyyVp-t5A8?si=u-DeeyxCx9fBjs1_" %}

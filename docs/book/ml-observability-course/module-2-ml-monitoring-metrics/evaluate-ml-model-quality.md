@@ -1,3 +1,7 @@
+---
+description: How to evaluate ML model quality directly and use early monitoring to detect potential ML model issues.
+---
+
 # 2.1. How to evaluate ML model quality
 
 {% embed url="https://www.youtube.com/watch?v=7Y819MAQTDg&list=PL9omX6impEuOpTezeRF-M04BW3VfnPBRF&index=7" %}

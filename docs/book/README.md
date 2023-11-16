@@ -1,5 +1,5 @@
 ---
-description: Open-source ML observabilty course.
+description: Free Open-source ML observability course for data scientists and ML engineers by Evidently AI.
 ---
 
 # Welcome!
@@ -47,12 +47,12 @@ ML observability course is organized into six modules. You can follow the comple
 [Module 4. Designing effective ML monitoring](ml-observability-course/module-4-designing-effective-ml-monitoring/readme.md). 
 {% endcontent-ref %}
 
-{% content-ref url="ml-observability-course/module-5-ml-pipelines-validation-and-testing.md" %}
-[Module 5. ML pipeline validation and testing](ml-observability-course/module-5-ml-pipelines-validation-and-testing.md). 
+{% content-ref url="ml-observability-course/module-5-ml-pipelines-validation-and-testing/readme.md" %}
+[Module 5. ML pipeline validation and testing](ml-observability-course/module-5-ml-pipelines-validation-and-testing/readme.md). 
 {% endcontent-ref %}
 
-{% content-ref url="ml-observability-course/module-6-deploying-an-ml-monitoring-dashboard.md" %}
-[Module 6. Deploying an ML monitoring dashboard](ml-observability-course/module-6-deploying-an-ml-monitoring-dashboard.md). 
+{% content-ref url="ml-observability-course/module-6-deploying-an-ml-monitoring-dashboard/readme.md" %}
+[Module 6. Deploying an ML monitoring dashboard](ml-observability-course/module-6-deploying-an-ml-monitoring-dashboard/readme.md). 
 {% endcontent-ref %}
 
 # Course calendar and deadlines

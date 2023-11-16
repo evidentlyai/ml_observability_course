@@ -1,5 +1,5 @@
 ---
-description: Introduction to ML monitoring and observability.
+description: Key concepts of machine learning monitoring and observability and how they fit in the ML lifecycle.
 ---
 
 # Module 1. Introduction

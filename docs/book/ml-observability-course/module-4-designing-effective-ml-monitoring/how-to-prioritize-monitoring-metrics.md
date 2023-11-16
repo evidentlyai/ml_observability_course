@@ -1,3 +1,7 @@
+---
+description: ML monitoring depth, metrics to collect when building a monitoring system, and how to prioritize them.
+---
+
 # 4.2. How to prioritize ML monitoring metrics
 
 {% embed url="https://youtu.be/jCXO4uuMHbs?si=9ss6_nK2bbLGq8Ph" %}
