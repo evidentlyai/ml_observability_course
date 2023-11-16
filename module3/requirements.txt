@@ -4,4 +4,4 @@ numpy>=1.19.5
 nltk>=3.6.7
 jupyter>=1.0.0
 
-evidently==0.4.7
+evidently==0.4.8
