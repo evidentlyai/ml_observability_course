@@ -12,6 +12,8 @@ In this video, we show how to create a custom Test Suite from individual tests a
 
 **Want to go straight to code?** Here is the [example notebook](https://github.com/evidentlyai/ml_observability_course/blob/main/module5/custome_suite_practice.ipynb) to follow along.
 
+**Link to docs:** [custom test suite](https://docs.evidentlyai.com/user-guide/tests-and-reports/custom-test-suite)
+
 **Outline:** \
 [00:00](https://www.youtube.com/watch?v=aE9ZlhaQ1fk&t=0s) Introduction \
 [00:50](https://www.youtube.com/watch?v=aE9ZlhaQ1fk&t=50s) Imports, data loading and prep \
