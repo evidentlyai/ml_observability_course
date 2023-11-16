@@ -46,6 +46,6 @@ As you progress and deploy multiple models in production, or if you work with mi
 
 ⭐️ **[Star Evidently on GitHub](https://github.com/evidentlyai/evidently)** to contribute back! This helps us create free, open-source tools and content for the community. 
 
-📌 **Share your feedback** so we can make this course better. 
+📌 **[Share your feedback](https://db984wnn7iq.typeform.com/to/IKDoGgKx)** so we can make this course better. 
 
 💻 **[Join our Discord community](https://discord.com/invite/xZjKRaNp8b)** for more discussions and materials on ML monitoring and observability. 
